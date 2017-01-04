@@ -1,5 +1,5 @@
 # CS31
-UCLA Computer Science 35L Winter 2015
+UCLA Computer Science 31 Winter 2015
 
 | Project       | Grade         | Due Date  | Comments                      |
 | :------------ |:--------------| :---------| :-----------------------------|
