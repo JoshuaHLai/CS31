@@ -1,4 +1,4 @@
-# CS31
+# Computer-Science-31
 UCLA Computer Science 31 Winter 2015
 
 | Project       | Grade         | Due Date  | Comments                      |
